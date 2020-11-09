@@ -3,7 +3,7 @@
  <head>
    <title>register</title>
  </head>
- <body style="margin:auto;width:60%">
+ <body style="width:60%;margin:auto">
      <h1>Registration form</h1>
      <form>
       <input type="text" placeholder="your name" required/><br></br>
@@ -21,6 +21,6 @@
     <input type ="password" placeholder="your password "/><br></br>
      <a href="registered.html"><input type="submit"/></a>
     </form>
-</body>
+  </body>
 </html>
     
