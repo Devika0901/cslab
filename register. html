@@ -13,9 +13,13 @@
      Female<input type="radio" value="female" name="gender"/> 
      Others<input type="radio" value="others" name="gender"/><br></br>
     <textarea placeholder="address"></textarea><br></br> 
+   Language known:
+     Malayalam<input type="checkbox" value="Mal"checked/>
+     English<input type="checkbox" value="Eng"/>
+     Hindi<input type="checkbox" value="Hindi"/><br></br>
     <input type = "email" placeholder="your email address"required/><br></br>
     <input type ="password" placeholder="your password "/><br></br>
-     <input type="submit"/>
+     <a href="registered.html"><input type="submit"/></a>
     </form>
 </body>
 </html>
